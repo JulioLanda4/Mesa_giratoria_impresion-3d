@@ -1,0 +1,100 @@
+CERN Open Hardware Licence Version 2 - Permissive
+
+Preamble
+
+CERN has developed this licence to promote collaboration among
+hardware designers and to provide a legal tool which supports the
+freedom to use, study, modify, share and distribute hardware designs
+and products based on those designs. Version 2 of the CERN Open
+Hardware Licence comes in three variants: this licence, CERN-OHL-P
+(permissive); and two reciprocal licences: CERN-OHL-W (weakly
+reciprocal) and CERN-OHL-S (strongly reciprocal).
+
+The CERN-OHL-P is copyright CERN 2020. Anyone is welcome to use it,
+in unmodified form only.
+
+Licence
+
+1 Definitions
+
+In this Licence, the following terms have the following meanings:
+  
+  a) “Licence” means this CERN-OHL-P.
+  
+  b) “Source” means information such as design materials or digital
+     code which can be applied to make or test a Product or to
+     prepare a Product for use, conveyance or sale, regardless of its
+     medium or how it is expressed. It includes Notices.
+  
+  c) “Product” means any device, component, work or physical
+     implementation, whether in finished or intermediate form,
+     arising from the Source.
+  
+  d) “Licensee” or “You” means any person exercising rights under
+     this Licence.
+  
+  e) “Licensor” means a person who distributes Source, or modified
+     versions of the Source, under the terms of this Licence.
+  
+  f) “Notice” means copyright, acknowledgement and trademark notices,
+     references to the location of any notices relating to this
+     Licence, and all notices that refer to this Licence.
+
+2 Applicability
+
+2.1 This Licence governs the use, copying, modification,
+communication to the public and distribution of the Source, and the
+making and distribution of Products.
+
+2.2 By exercising any right granted under this Licence, You accept,
+and agree to be bound by, its terms.
+
+3 Copying, modification, communication and distribution of the Source
+
+You may copy, modify, communicate to the public and distribute the
+Source, provided that You retain Notices.
+
+4 Making and distribution of Products
+
+You may make Products, and distribute them, provided that You retain
+Notices.
+
+5 Warranty disclaimer and liability
+
+5.1 DISCLAIMER OF WARRANTY -- The Source and Products are provided
+‘as is’ and any express or implied warranties, including, but not
+limited to, implied warranties of merchantability, of satisfactory
+quality, non-infringement of third-party rights, and fitness for a
+particular purpose or use are disclaimed in respect of any Source or
+Product to the maximum extent permitted by law. The entire risk as
+to the use, quality, and performance of the Source or Products shall
+be with You and not the Licensor. This disclaimer of warranty is an
+essential part of this Licence and a condition for the grant of any
+rights granted under this Licence.
+
+5.2 LIMITATION OF LIABILITY -- To the maximum extent permitted by
+law, in no event will the Licensor be liable for any direct, indirect,
+special, incidental or consequential damages (including, but not
+limited to, loss of profit, loss of use, loss of data, or claims by
+third parties) arising from the use of the Source or Products, or any
+modifications to them, even if the Licensor has been advised of the
+possibility of such damages.
+
+6 General
+
+6.1 If any provision of this Licence is held to be invalid or
+unenforceable, the remaining provisions will remain in full force and
+effect.
+
+6.2 This Licence shall not be enforceable except by a Licensor acting
+as such, and third-party beneficiary rights are specifically
+excluded.
+
+Notices
+
+You should include a copy of this Licence with every copy of the
+Source and Product You distribute. You may also include additional
+notices relevant to the Source alongside this Licence, provided that
+such notices do not modify or limit the terms of this Licence.
+
+SPDX-License-Identifier: CERN-OHL-P-2.0
