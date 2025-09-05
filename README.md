@@ -14,5 +14,5 @@ Proyecto de una mesa giratoria con diseño mecánico en SolidWorks, piezas lista
 
 ## 🧩 Ensamblaje
 
-- Render/preview: `docs/Ensamblaje_mesa.PNG`
+![Vista previa](docs/Ensamblaje_mesa.PNG)
 
